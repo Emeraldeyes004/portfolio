@@ -25,13 +25,11 @@ I provide in-depth analysis and tailored solutions to help you make data-driven 
 ![image](WhatsApp Image 2025-01-13 at 1.38.00 PM.jpeg)
 
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**NedTech Sales Analysis from 2021-2024.**
 
-![image](2 anietie etuk data analytics sales project.jpg)
+![image](WhatsApp Image 2025-01-13 at 1.39.28 PM.jpeg)
 
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
