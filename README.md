@@ -31,13 +31,10 @@ I provide in-depth analysis and tailored solutions to help you make data-driven 
 
 
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Oilrig Performance Analysis.**
 
-![image](3 anietie etuk data analytics agro project.jpg)
+![image](WhatsApp Image 2025-01-13 at 1.40.04 PM.jpeg)
 
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
-
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
 
 
 ## CONTACT DETAILS
