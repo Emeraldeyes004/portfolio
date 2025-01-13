@@ -28,6 +28,7 @@ I provide in-depth analysis and tailored solutions to help you make data-driven 
 **NedTech Sales Analysis from 2021-2024.**
 
 ![image](WhatsApp Image 2025-01-13 at 1.39.28 PM.jpeg)
+>Download the Report here (HR Management Summary Report.pptx)
 
 
 
