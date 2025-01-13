@@ -22,7 +22,7 @@ I provide in-depth analysis and tailored solutions to help you make data-driven 
 *A glimpse of some of the projects I've been working on.*
 
 **Sales and Shipping Company Anaysis.**
-![image](1 Hamimi data analytics WhatsApp Image 2025-01-13 at 1.38.00 PM.jpeg)
+![image](WhatsApp Image 2025-01-13 at 1.38.00 PM.jpeg)
 
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
