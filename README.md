@@ -28,8 +28,6 @@ I provide in-depth analysis and tailored solutions to help you make data-driven 
 **NedTech Sales Analysis from 2021-2024.**
 
 ![image](WhatsApp Image 2025-01-13 at 1.39.28 PM.jpeg)
->Download the Report here (HR Management Summary Report.pptx)
-
 
 
 **Oilrig Performance Analysis.**
@@ -38,6 +36,7 @@ I provide in-depth analysis and tailored solutions to help you make data-driven 
 
 **Human Resources Management Analysis.**
 ![image](Screenshot 2024-12-20 121539.png)
+>Download the Report here (HR Management Summary Report.pptx)
 
 
 
