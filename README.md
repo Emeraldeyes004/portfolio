@@ -47,11 +47,12 @@ I provide in-depth analysis and tailored solutions to help you make data-driven 
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto:benmimi800@gmail.com">benmimi800@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 816-763-7212</td>
+      <td>(234) 814-853-4696</td>
+      <td>(234) 902-505-0672</td>
     </tr>
     <tr>
       <td>📍</td>
