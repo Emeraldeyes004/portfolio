@@ -36,7 +36,7 @@ I provide in-depth analysis and tailored solutions to help you make data-driven 
 
 **Human Resources Management Analysis.**
 ![image](Screenshot 2024-12-20 121539.png)
->Download the Report here (HR Management Summary Report.pptx)
+<a href="HR Management Summary Report.pptx">Download the Report here ()</a>
 
 
 
