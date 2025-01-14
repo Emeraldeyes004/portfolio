@@ -51,9 +51,8 @@ I provide in-depth analysis and tailored solutions to help you make data-driven 
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 814-853-4696</td> <td>(234) 902-505-0672</td>
-      <
-    </tr>
+      <td>(234) 814-853-4696</td>
+   </tr>
     <tr>
       <td>📍</td>
       <td>PH, Nigeria</td>
@@ -72,6 +71,11 @@ I provide in-depth analysis and tailored solutions to help you make data-driven 
     </tr>
   </tbody>
 </table>
+
+   
+
+
+
 
    
 
