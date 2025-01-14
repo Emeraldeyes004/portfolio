@@ -67,7 +67,7 @@ I provide in-depth analysis and tailored solutions to help you make data-driven 
     </tr>
     <tr>
       <td>📺</td>
-      <td><a href="www.youtube.com/@InsightsOut-93">Watch my tutorials on YouTube</a></td>
+      <td><a href="https://www.youtube.com/@InsightsOut-93">Watch my tutorials on YouTube</a></td>
     </tr>
   </tbody>
 </table>
