@@ -59,15 +59,15 @@ I provide in-depth analysis and tailored solutions to help you make data-driven 
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="MY CV.docx">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
+      <td><a href="https://www.linkedin.com/in/hamimi-ben-anzua-77b599341/">My LinkedIn</a></td>
     </tr>
     <tr>
       <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
+      <td><a href="www.youtube.com/@InsightsOut-93">Watch my tutorials on YouTube</a></td>
     </tr>
   </tbody>
 </table>
