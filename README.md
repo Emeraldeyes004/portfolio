@@ -22,20 +22,21 @@ I provide in-depth analysis and tailored solutions to help you make data-driven 
 *A glimpse of some of the projects I've worked on.*
 
 **Sales and Shipping Company Anaysis.**
-*With Excel*
+*Visualised and Analyzed With Excel*
 ![image](WhatsApp Image 2025-01-13 at 1.38.00 PM.jpeg)
 
 
 **NedTech Sales Analysis from 2021-2024.**
-
+*Visualized with Tableau and cleaned with MySQL*
 ![image](Screenshot 2025-01-22 181916.png)
 
 
 **PCOS Data Visualization.**
-
-![image](WhatsApp Image 2025-01-13 at 1.40.04 PM.jpeg)
+*Analyzed and Visualised with Power BI*
+![image](Screenshot 2025-03-07 125439.png)
 
 **Human Resources Management Analysis.**
+*Visualized with Tableau*
 ![image](Screenshot 2024-12-20 121539.png)
 <a href="HR Management Summary Report.pptx">Download the Report here ()</a>
 
