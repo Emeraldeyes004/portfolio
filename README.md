@@ -19,9 +19,10 @@ I provide in-depth analysis and tailored solutions to help you make data-driven 
 <!--Section 2: List 3-4 key projects-->
 ## MY PROJECTS
 
-*A glimpse of some of the projects I've been working on.*
+*A glimpse of some of the projects I've worked on.*
 
 **Sales and Shipping Company Anaysis.**
+*With Excel*
 ![image](WhatsApp Image 2025-01-13 at 1.38.00 PM.jpeg)
 
 
