@@ -28,10 +28,10 @@ I provide in-depth analysis and tailored solutions to help you make data-driven 
 
 **NedTech Sales Analysis from 2021-2024.**
 
-![image](WhatsApp Image 2025-01-13 at 1.39.28 PM.jpeg)
+![image](Screenshot 2025-01-22 181916.png)
 
 
-**Oilrig Performance Analysis.**
+**PCOS Data Visualization.**
 
 ![image](WhatsApp Image 2025-01-13 at 1.40.04 PM.jpeg)
 
